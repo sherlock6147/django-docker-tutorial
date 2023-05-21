@@ -34,4 +34,3 @@ server {
         client_max_body_size 10M;
     }
 }
-// for server without https
